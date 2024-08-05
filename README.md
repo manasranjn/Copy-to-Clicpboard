@@ -1,0 +1,2 @@
+# Copy to Clipboard
+This is a user-friendly project crafted with HTML, CSS, and jQuery. It allows users to easily copy text from a textarea with the click of a button. The intuitive interface includes a textarea for input and a "Copy" button. When clicked, the button triggers a jQuery function to copy the textarea content to the clipboard, providing a seamless and efficient way to transfer text. This simple yet practical feature enhances user experience and productivity on web pages.
